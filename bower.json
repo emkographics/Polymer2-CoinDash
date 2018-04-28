@@ -1,0 +1,20 @@
+{
+  "name": "CoinDash",
+  "homepage": "https://github.com/emkographics/Polymer2-CoinDash",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Emir Memic"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0"
+  }
+}
